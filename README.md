@@ -1,30 +1,72 @@
-<h1 align="center">Hi 👋, I'm Owais Ahmed Siddiqui</h1>
-<h3 align="center">🐛 Creating bugs professionally, fixing them enthusiastically</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+👋,+I'm+Owais+Ahmed+Siddiqui;Full+Stack+Developer;Welcome+to+my+Profile!&color=38B2AC" alt="Typing SVG" />
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=owais-ahmed-siddiqui&label=Profile%20views&color=0e75b6&style=flat" alt="owais-ahmed-siddiqui" /> </p>
+<h3 align="center">🐛 Creating bugs professionally, fixing them enthusiastically 🛠️</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=owais-ahmed-siddiqui" alt="owais-ahmed-siddiqui" /></a> </p>
-
-- 🌱 I’m currently learning **Full Stack Development**
-
-- 👨‍💻 All of my projects are available at [-](-)
-
-- 📫 How to reach me **owaisahmedmail@gmail.com**
-
-- 📄 Know about my experiences [-](-)
-
-- ⚡ Fun fact **I enjoy photography and exploring beautiful places across Pakistan 📸**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/owais-ahmed-siddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="owais-ahmed-siddiqui" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=owais-ahmed-siddiqui&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<div align="center">
+  <a href="https://linkedin.com/in/owais-ahmed-siddiqui" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:owaisahmedmail@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=owais-ahmed-siddiqui&show_icons=true&locale=en&layout=compact" alt="owais-ahmed-siddiqui" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=owais-ahmed-siddiqui&show_icons=true&locale=en" alt="owais-ahmed-siddiqui" /></p>
+<table align="center">
+    <tr>
+        <td width="60%">
+            <h2>👋 About Me</h2>
+            <ul>
+                <li>🌱 I’m currently learning <strong>Full Stack Development</strong></li>
+                <li>👨‍💻 Check out my projects in my repositories below</li>
+                <li>📫 How to reach me: <a href="mailto:owaisahmedmail@gmail.com"><strong>owaisahmedmail@gmail.com</strong></a></li>
+                <li>⚡ Fun fact: <strong>I enjoy photography and exploring beautiful places across Pakistan 📸🇵🇰</strong></li>
+            </ul>
+        </td>
+        <td width="40%" align="center">
+            <img src="https://github-profile-trophy.vercel.app/?username=owais-ahmed-siddiqui&theme=radical&row=2&column=3&margin-w=15&margin-h=15" alt="Trophies" />
+        </td>
+    </tr>
+</table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=owais-ahmed-siddiqui&" alt="owais-ahmed-siddiqui" /></p>
+---
+
+<h2 align="center">🛠️ Languages & Tools</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,python,django,mongodb,mysql,postgres&theme=dark&perline=7" alt="My Skills" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=owais-ahmed-siddiqui&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=owais-ahmed-siddiqui&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=owais-ahmed-siddiqui&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+<h2 align="center">🐍 My Contribution Snake</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/owais-ahmed-siddiqui/owais-ahmed-siddiqui/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/owais-ahmed-siddiqui/owais-ahmed-siddiqui/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/owais-ahmed-siddiqui/owais-ahmed-siddiqui/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
