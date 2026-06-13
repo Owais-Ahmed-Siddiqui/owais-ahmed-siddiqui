@@ -1,9 +1,8 @@
-<!-- Banner / Typing Effect -->
-<h1 align="center">Hi 👋, I'm Owais Ahmed Siddiqui</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+👋,+I'm+Owais+Ahmed+Siddiqui;Full+Stack+Developer;Welcome+to+my+Profile!&color=38B2AC" alt="Typing SVG" />
+</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Django+%7C+React+%7C+Node;Always+Learning+New+Things+🚀" />
-</p>
+<h3 align="center">🐛 Creating bugs professionally, fixing them enthusiastically 🛠️</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=owais-ahmed-siddiqui&label=Profile+Views&color=0e75b6&style=for-the-badge" />
